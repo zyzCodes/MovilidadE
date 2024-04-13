@@ -118,9 +118,6 @@ export default function Home() {
                 </ul>
             </div>
             <div className="flex flex-col items-center justify-center min-h-screen w-full px-4 py-6">
-            <h1 className="text-3xl font-bold text-gray-900 dark:text-white text-center w-full md:w-3/4 mb-10">
-                Detailed Theoretical Framework and Methodological Outline
-            </h1>
 
             <div className="grid card bg-base-300 rounded-box place-items-center w-3/4 p-4 mb-6">
                 <h2 className="text-lg font-semibold">Teorías Relevantes del Marco Teórico:</h2>
